@@ -175,8 +175,9 @@ img.pic{
 
 #text2 {
 width:960px;
-height: 80px;
+height: 90px;
 background: white;
 margin-left: 20%;
 margin-right: 30%;
+font-size: 20px;
 }
